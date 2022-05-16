@@ -1,0 +1,11 @@
+library(curl)
+library(ggplot2)
+library(htmltab)
+library(stringr)
+library(dplyr)
+library(gridExtra)
+library(cowplot)
+library(BasketballAnalyzeR)
+
+install.packages("devtools")
+devtools::install_github("sndmrc/BasketballAnalyzeR")
