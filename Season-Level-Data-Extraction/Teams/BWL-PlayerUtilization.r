@@ -79,4 +79,3 @@ p <- data_combo |>
     legend.position = "top",
     panel.grid = element_blank()
   )
-
